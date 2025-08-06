@@ -1,0 +1,123 @@
+[
+    {
+      "service": "National Emergency Number",
+      "number": "112",
+      "notes": "All-in-one emergency (police/fire/ambulance)"
+    },
+    {
+      "service": "Police",
+      "number": "100, 112",
+      "notes": ""
+    },
+    {
+      "service": "Fire",
+      "number": "101",
+      "notes": ""
+    },
+    {
+      "service": "Ambulance",
+      "number": "102",
+      "notes": ""
+    },
+    {
+      "service": "Disaster Management Services",
+      "number": "108",
+      "notes": "Also used for ambulance in many states"
+    },
+    {
+      "service": "Women Helpline",
+      "number": "1091, 181",
+      "notes": "181 for domestic abuse"
+    },
+    {
+      "service": "Air Ambulance",
+      "number": "9540161344",
+      "notes": ""
+    },
+    {
+      "service": "AIDS Helpline",
+      "number": "1097",
+      "notes": ""
+    },
+    {
+      "service": "Anti Poison (Delhi)",
+      "number": "1066, 011-1066",
+      "notes": ""
+    },
+    {
+      "service": "Disaster Management (NDMA)",
+      "number": "1078, 011-26701700",
+      "notes": ""
+    },
+    {
+      "service": "NDRF HQ (Earthquake/Flood/Disaster)",
+      "number": "011-24363260, 9711077372",
+      "notes": ""
+    },
+    {
+      "service": "Railway Enquiry",
+      "number": "139",
+      "notes": ""
+    },
+    {
+      "service": "Senior Citizen Helpline",
+      "number": "14567",
+      "notes": ""
+    },
+    {
+      "service": "Road Accident Emergency",
+      "number": "1073, 1033",
+      "notes": "1033 for highways/private operators"
+    },
+    {
+      "service": "Kisan Call Centre",
+      "number": "18001801551",
+      "notes": "For farmers"
+    },
+    {
+      "service": "Relief Commissioner (Calamities)",
+      "number": "1070",
+      "notes": ""
+    },
+    {
+      "service": "Children in Difficult Situation",
+      "number": "1098",
+      "notes": "Childline"
+    },
+    {
+      "service": "National Poisons Information (AIIMS)",
+      "number": "1800116117, 011-26593677, 26589391",
+      "notes": ""
+    },
+    {
+      "service": "Poison Info (CMC Vellore)",
+      "number": "18004251213",
+      "notes": ""
+    },
+    {
+      "service": "Tourist Helpline",
+      "number": "1363, 1800111363",
+      "notes": ""
+    },
+    {
+      "service": "LPG Leak Helpline",
+      "number": "1906",
+      "notes": ""
+    },
+    {
+      "service": "KIRAN Mental Health Helpline",
+      "number": "18005990019",
+      "notes": ""
+    },
+    {
+      "service": "Cyber Crime Helpline",
+      "number": "1930",
+      "notes": ""
+    },
+    {
+      "service": "COVID-19 Helpline",
+      "number": "011-23978046, 1075",
+      "notes": ""
+    }
+  ]
+  
